@@ -10,6 +10,7 @@ Included :
 6. Repositories (Split your business logic and query database to Clean Code)
 7. Routes (with Routes version)
 8. Environment using .env file
+9. Automated test using Jest and Supertest
 
 Installation Instruction
 
